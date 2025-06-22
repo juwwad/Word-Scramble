@@ -113,7 +113,7 @@ function scramble(word) {
 
 ## Live Demo
 
-
+*https://juwwad.github.io/Word-Scramble/*
 ---
 
 ## Author
